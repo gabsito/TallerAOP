@@ -1,0 +1,3 @@
+Tipo de Transacción: void com.bank.Bank.moneyMakeTransaction() Fecha: Thu Oct 29 17:06:42 ECT 2020
+Tipo de Transacción: void com.bank.Bank.moneyMakeTransaction() Fecha: Thu Oct 29 17:08:50 ECT 2020
+Tipo de Transacción: void com.bank.Bank.moneyMakeTransaction() Fecha: Thu Oct 29 17:08:50 ECT 2020
